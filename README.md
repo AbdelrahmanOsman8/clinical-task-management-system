@@ -27,5 +27,5 @@ Task management is critical in hospital settings to ensure timely patient care. 
 - Develop web-based GUI for real-time hospital task tracking
 
 ## Author
-Abdelrahman Ahmed  
+Abdelrahman Osman  
 Health Informatics Student
